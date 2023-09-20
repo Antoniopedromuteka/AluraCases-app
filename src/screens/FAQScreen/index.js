@@ -1,6 +1,6 @@
 // FAQScreen.js
-import { Box, Text } from '../../components/theme/index';
-import { theme } from '../../components/theme/theme';
+import { Box, Text } from '../../theme/index';
+import { theme } from '../../theme/theme';
 import Footer from '../../components/patterns/footer';
 import Link from '../../components/Link';
 
